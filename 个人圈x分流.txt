@@ -1,0 +1,3 @@
+#个人特点分流规则
+host-suffix, gungho.jp, 🇺🇸 USA
+host, emby.nexitally.com, 🇺🇸 USA
