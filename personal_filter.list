@@ -1,3 +1,11 @@
 #个人特点分流规则
+
+#天凤
+host-suffix, mjv.jp, 🇨🇳 China
+host-suffix, tenhou.net, 🇨🇳 China
+
+#Gungho NA
 host-suffix, gungho.jp, 🇺🇸 USA
+
+#EMBY Nexitally
 host, emby.nexitally.com, 🇺🇸 USA
