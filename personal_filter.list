@@ -1,11 +1,26 @@
 #个人特点分流规则
+
+#ODKMedia
+host-suffix, odkmedia.io, 🇺🇸 USA
+host-suffix, ondemandchina.com, 🇺🇸 USA
+#COLNV
+host-suffix, colnv.com, 🇺🇸 USA
+#ZYPE
+host-suffix, zype.com, 🇺🇸 USA
+#iTalkBB
+host-suffix, iTalkBB.ca, 🌍 World
+host-suffix, iTalkBB.com, 🇺🇸 USA
+
 #EMBY
 host-suffix, emby.nexitally.com, EMBY
+host, pub1.emby.wtf, 🇨🇳 China
+host, emby.ok.edu.hk, EMBY
+
 #天凤
 host-suffix, mjv.jp, 🇨🇳 China
 host-suffix, tenhou.net, 🇨🇳 China
 
-#Gungho NA
+#Gungho NA and JP
 host-suffix, gungho.jp, 🇺🇸 USA
 
 #yande.re
