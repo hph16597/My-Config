@@ -22,6 +22,8 @@ host-suffix, tenhou.net, 🇨🇳 China
 
 #Gungho NA and JP
 host-suffix, gungho.jp, 🇺🇸 USA
+host, api-ios.padsv.gungho.jp, 🇯🇵 Japan
+host, dl.padsv.gungho.jp, 🇯🇵 Japan
 
 #yande.re
 host-suffix, yande.re, Global
