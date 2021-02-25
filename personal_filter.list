@@ -1,5 +1,6 @@
 #个人特点分流规则
-
+#EMBY
+host-suffix, emby.nexitally,com, EMBY
 #天凤
 host-suffix, mjv.jp, 🇨🇳 China
 host-suffix, tenhou.net, 🇨🇳 China
